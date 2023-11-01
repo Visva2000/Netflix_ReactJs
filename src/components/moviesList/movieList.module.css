@@ -1,0 +1,13 @@
+.movieListContainer{
+    
+    margin: 40px;
+
+}
+
+.movieListItem{
+    background-color: white;
+    box-shadow: 4px 4px 4px #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    
+}

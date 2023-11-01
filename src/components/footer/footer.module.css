@@ -1,0 +1,60 @@
+.footer{
+    border-top: 10px solid gray;
+    width: 100%;
+    display: flex;
+  }
+  
+  
+  .footercard1{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: white; 
+     margin: 80px;
+     margin-top: 40px;
+     margin-bottom: 40px;
+     width: 30%;
+  }
+  .footercard1button{
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-bottom: 1px solid grey;
+    text-decoration: none;
+    text-align: start;
+    color: white; 
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+   margin-bottom: 25px; 
+  
+  }
+  .footercard1question{
+    height: 20px;
+  }
+  select{
+    text-decoration:none;
+    width: 200px;
+    text-align: center;
+    border-radius: 4px;
+    height: 30px;
+    background: transparent;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+    
+    
+}
+option{
+    color: black;
+}
+.langDropdown{
+    border: none;
+    outline: none;
+}
+.langDropdown:focus-within{
+    border-radius: 4px;
+    border: 1px solid white;
+    width: 200px
+}
+  
